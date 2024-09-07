@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logoNew.svg';  
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World! This is our team project.
+          Welcome to the new version of our team project.  // Accept teammate's text
         </p>	
       </header>
     </div>
